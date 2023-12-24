@@ -21,5 +21,3 @@ Define estilos globais, como remoção de margens e preenchimento padrão e conf
 Estiliza a seção do slider, os slides e elementos dentro dos slides, como títulos, parágrafos e ícones SVG.
 Usa gradientes e imagens de fundo para estilizar cada slide com uma imagem de destino turístico.
 No geral, o código cria um slider visualmente atraente que destaca diferentes destinos turísticos, cada um com seu próprio tema de cor e imagem de fundo. O Swiper.js é usado para proporcionar uma experiência de apresentação de slides interativa.
-
-![image](https://github.com/joaovictor245/slides-interativa/assets/124230884/59604328-df3a-4304-a7ce-5373330cd7ca)
