@@ -1,3 +1,5 @@
+![Logo do Meu Projeto](https://cdn.discordapp.com/attachments/1175249252771958844/1191950622396776488/slides.png?ex=65a74d85&is=6594d885&hm=16595add2a313d357b40b5b1d1f55f89a3ab0d512e5cb559c94faf850027fa84&)
+
 # Tourist Destinations Slider
 
 Este projeto cria uma página web com um slider interativo usando a biblioteca [Swiper.js](https://swiperjs.com/). Cada slide destaca um destino turístico com informações como nome, localização e ícones SVG. O design é atrativo, incorporando gradientes e imagens de fundo. O Swiper.js permite uma navegação suave entre os slides, com efeitos visuais e um paginador.
@@ -21,7 +23,3 @@ Importa as fontes "Open Sans" e "Roboto" do Google Fonts. Define estilos globais
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests.
-
-
-
-![Logo do Meu Projeto](https://cdn.discordapp.com/attachments/1175249252771958844/1191950622396776488/slides.png?ex=65a74d85&is=6594d885&hm=16595add2a313d357b40b5b1d1f55f89a3ab0d512e5cb559c94faf850027fa84&)
